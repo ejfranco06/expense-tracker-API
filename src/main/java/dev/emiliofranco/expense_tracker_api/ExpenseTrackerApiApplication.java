@@ -1,4 +1,4 @@
-package dev.emiliofranco.expense_tracke_api;
+package dev.emiliofranco.expense_tracker_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
