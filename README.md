@@ -1,4 +1,4 @@
-# Expense tracker API
+# Expense Tracker API
 An API to track expenses
 
 ## Technologies Used
