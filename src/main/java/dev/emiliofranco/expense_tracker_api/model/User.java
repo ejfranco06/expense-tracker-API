@@ -1,13 +1,10 @@
 package dev.emiliofranco.expense_tracker_api.model;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 @Data
-@NoArgsConstructor
 public class User {
-    private  int userId;
+    private int userId;
     private String firstName;
     private String lastName;
     private String email;
